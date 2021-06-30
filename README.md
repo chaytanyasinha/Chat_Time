@@ -1,5 +1,5 @@
 # Realtime Chat and video call WebApplication
-Chat time is my webApp which is a real time chat and video calling web application which is very easy to use and accessible to everyone as I have put it on netlify now.
+Chat time is my webApp which is a real time chat and video calling web application which is very easy to use and accessible to everyone.
 
 I have used HTML/CSS,Javascript,ReactJS,WebRTC,Socket.io and NodeJS as my tech stack and it helped me to develop this application in which you can create a room and then talk with your group and can call your friend to a video call also with an efficient approach.
 
